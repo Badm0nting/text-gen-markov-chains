@@ -30,3 +30,17 @@ The project uses texts from the **Gutenberg corpus** provided by NLTK:
 (All texts by William Shakespeare)
 
 ---
+## ✅ Sample Output
+
+To-morrow is with me.
+Come, come, give me up.
+Let me be your humble servant.
+Hark! who comes here?
+We will leave you then.
+
+---
+
+## 📄 License
+
+This project uses public domain literary works from Project Gutenberg.
+For educational and non-commercial use.
